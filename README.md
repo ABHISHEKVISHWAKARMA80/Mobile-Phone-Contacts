@@ -1,4 +1,4 @@
-First task/ Problem statement: Create a program that implements a simple mobile phone with
+Problem statement: Create a program that implements a simple mobile phone with
 the given capabilities. Able to store, modify, remove and query contact names. You will want
 to create a separate class for Contacts (name and phone number). Create a master class
 (MobilePhone) that holds the ArrayList of Contacts. The MobilePhone class has the
